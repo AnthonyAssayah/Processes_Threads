@@ -1,0 +1,19 @@
+itamar caspi, 315874982
+Anthony Assayah, 209971258
+
+To use our program with makefile:
+$ make all
+will compile both server and client files.
+then the commands to run the files:
+
+$./server
+$./client "SERVER_IP" 
+
+where "SERVER_IP" will be replaced by the server's ip 
+
+example for running the client: ./client 10.100.102.47
+
+
+
+
+
